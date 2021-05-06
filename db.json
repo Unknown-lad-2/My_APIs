@@ -4,7 +4,7 @@
             "_pic": "https://images.news18.com/ibnlive/uploads/2020/07/1595680401_sourav-ganguly.jpg",
             "_name": "Sourav Ganguly",
             "_nation": "India",
-            "_IPL_team": "Pune Warriors India",
+            "_IPL_team": "Pune Warriors",
             "_heightest_run_odi": "183",
             "_total_matches_odi": "311"
         },
@@ -13,7 +13,7 @@
             "_pic": "https://www.inspirespeakers.com.au/wp-content/uploads/2019/11/Ricky-Ponting-1270x1280.jpg",
             "_name": "Ricky Ponting",
             "_nation": "Australian",
-            "_IPL_team": "Mumbai Indians",
+            "_IPL_team": "MI",
             "_heightest_run_odi": "164",
             "_total_matches_odi": "260"
         },
@@ -22,7 +22,7 @@
             "_pic": "https://imagevars.gulfnews.com/2010/10/6/1_16a07fc9f70.692838_661503276_16a07fc9f70_large.jpg",
             "_name": "AB de Villiers",
             "_nation": "South African",
-            "_IPL_team": "Royal Challengers Bangalore",
+            "_IPL_team": "RCB",
             "_heightest_run_odi": "176",
             "_total_matches_odi": "228"
         },
@@ -31,7 +31,7 @@
             "_pic": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Brendon_McCullum_ONZM_%28cropped%29.jpg",
             "_name": "Brendon McCullum",
             "_nation": "New Zealand",
-            "_IPL_team": "Chennai Super Kings",
+            "_IPL_team": "CSK",
             "_heightest_run_odi": "170",
             "_total_matches_odi": "260"
         },
@@ -49,7 +49,7 @@
             "_pic": "https://cdn.celebsagewiki.com/images/91/luke-wright.JPG",
             "_name": "Luke Wright",
             "_nation": "England",
-            "_IPL_team": "Pune Warriors India ",
+            "_IPL_team": "Pune Warriors",
             "_heightest_run_odi": "52",
             "_total_matches_odi": "50"
         },
@@ -58,7 +58,7 @@
             "_pic": "https://i.pinimg.com/474x/49/4b/8f/494b8f0374d082741718a65e8dca0198.jpg",
             "_name": "Glenn Maxwell",
             "_nation": "Australian",
-            "_IPL_team": "Royal Challengers Bangalore",
+            "_IPL_team": "RCB",
             "_heightest_run_odi": "108",
             "_total_matches_odi": "116"
         },
@@ -67,7 +67,7 @@
             "_pic": "https://i.pinimg.com/originals/a3/fb/5d/a3fb5def518705c9cc739299234c2779.jpg",
             "_name": "Viral Kholi",
             "_nation": "India",
-            "_IPL_team": "Royal Challengers Bangalore",
+            "_IPL_team": "RCB",
             "_heightest_run_odi": "183",
             "_total_matches_odi": "254"
         },
@@ -76,7 +76,7 @@
             "_pic": "http://www.observerbd.com/2015/03/01/1425222919.jpg",
             "_name": "Shakib Al Hasan",
             "_nation": "Bangladesh",
-            "_IPL_team": "Kolkata Knight Riders",
+            "_IPL_team": "KKR",
             "_heightest_run_odi": "134",
             "_total_matches_odi": "208"
         },
@@ -94,7 +94,7 @@
             "_pic" : "https://thefangarage.com/upload/posts/12910/dhoni-suit.jpg",
             "_name" : "MS Dhoni",
             "_nation": "India",
-            "_IPL_team": "Chennai Super Kings",
+            "_IPL_team": "CSK",
             "_heightest_run_odi": "183",
             "_total_matches": "350"
         }
